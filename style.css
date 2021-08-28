@@ -2,11 +2,22 @@
     background-color: green;
 }
 
+.jumbotron {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5))
+}
+
 h1 {
     color: white;
     font-size: 40px;
     font-weight: bolder;
     text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h2 {
+    color: white;
+    font-size: 15px;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
 #ronBurgundy {
@@ -23,3 +34,16 @@ img {
     text-align: center;
 
 }
+
+.carousel {
+    width:640px;
+    height:360px;
+  }
+
+  .carouselFace {
+      text-align: center;
+  }
+
+  #carouselExampleIndicators {
+      text-align: center;
+  }
