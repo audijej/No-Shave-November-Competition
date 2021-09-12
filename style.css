@@ -38,6 +38,7 @@ img {
 .carousel {
     width:640px;
     height:360px;
+    text-align: center;
   }
 
   .carouselFace {
