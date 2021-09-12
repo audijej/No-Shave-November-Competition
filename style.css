@@ -38,11 +38,13 @@ img {
 .carousel {
     width:640px;
     height:360px;
+    margin: auto;
     text-align: center;
   }
 
-  .carouselFace {
+  .carousel-inner .carousel-item img {
       text-align: center;
+      margin:0 auto;
   }
 
   #carouselExampleIndicators {
